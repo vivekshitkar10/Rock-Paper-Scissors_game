@@ -41,13 +41,15 @@ body {
     margin-bottom: 40px;
   }
   
-  .reset-score-button {
+  .reset-score-button,
+  .auto-play-btn {
     
     background-color: white;
     border: none;
     font-size: 30px;
     padding: 10px 25px;
     cursor: pointer;
+    margin-right: 20px;
   }
 
   
