@@ -2,6 +2,7 @@
 A simple Rock Paper and Scissors game we can play it digitally.
 simple User interface.
 I used HTML , CSS and JavaScript nothing else.
+I have also added auto play button in it.
 
 
 Final Screenshot of our Game :
